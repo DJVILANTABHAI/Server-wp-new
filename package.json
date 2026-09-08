@@ -2,9 +2,9 @@
   "name": "aman-whatsapp-server",
   "version": "1.0.0",
   "description": "WhatsApp API Server",
-  "main": "aman.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node aman.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "20.x"
